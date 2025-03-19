@@ -1,7 +1,7 @@
 
 **Setup Kubernetes Cluster on Self Managed Nodes:**
 
-1. Create 2 instances on AWS or Azure or GCP enviroment for master and worker nodes
+1. Create required number of instances on AWS or Azure or GCP enviroment for master and worker nodes. You can choose your own cluster size, out of which one would be master and rest would be worker nodes.
 
 Next on master node, execute the below script.
 
